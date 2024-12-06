@@ -1,0 +1,12 @@
+node_modules
+*.log
+dist
+.output
+.nuxt
+.env
+.vscode
+*.zip
+mock
+dev-dist
+.eslintcache
+.data
